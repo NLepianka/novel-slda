@@ -6,10 +6,10 @@ Script for running unsupervised topic models using the "MALLET" package
 #Basic information
 
 PARAMETERS:
- +K <- 25            THE NUMBER OF TOPICS
- +G <- 100           THE NUMBER OF ITERATIONS (not used in sLDA)
- +alpha <- 20        THE OPTIMIZATION INTERVAL
- +eta <- .3             
+ K <- 25            THE NUMBER OF TOPICS
+ G <- 100           THE NUMBER OF ITERATIONS (not used in sLDA)
+ alpha <- 20        THE OPTIMIZATION INTERVAL
+ eta <- .3             
 
 The comedy and tragedy ratings are binary. A work is given a score of either -1 (comedy) or 1 (tragedy) in the annotations (name the genre element below)
 
