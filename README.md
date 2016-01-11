@@ -3,7 +3,7 @@ Contains:
 R Script for running sLDA using Chang's "lda" package
 Script for running unsupervised topic models using the "MALLET" package
 
-#Basic Information
+#Basic information
 
 +PARAMETERS
  +K <- 25            THE NUMBER OF TOPICS
